@@ -1,4 +1,4 @@
-![](/img/48zd8xe6k49a1.jpg.png)
+![](/img/48zd8xe6k49a1.jpg)
 # JWST Image Analysis Project
 
 ## Overview

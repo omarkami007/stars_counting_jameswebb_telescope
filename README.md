@@ -1,5 +1,5 @@
 ![](/img/48zd8xe6k49a1.jpg)
-# JWST Image Analysis Project
+# Image Processing of James Webb Telescope Observations
 
 ## Overview
 This project leverages images from the **James Webb Space Telescope (JWST)** for advanced astronomical analysis. It focuses on:

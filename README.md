@@ -48,5 +48,5 @@ The project also includes a future perspective on using the **GaMPEN convolution
 
 #### References:
 
-Patrick Hébert Denis Laurendeau, Traitement des images , Université LAVAL.
-https://github.com/KouroshKSH/Astrophysical-Image-Processing-Using-JWST
+- Patrick Hébert Denis Laurendeau, Traitement des images , Université LAVAL.
+- https://github.com/KouroshKSH/Astrophysical-Image-Processing-Using-JWST

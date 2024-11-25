@@ -1,4 +1,4 @@
-![](/img/space_banner_graphic.png)
+![](/img/48zd8xe6k49a1.jpg.png)
 # JWST Image Analysis Project
 
 ## Overview
